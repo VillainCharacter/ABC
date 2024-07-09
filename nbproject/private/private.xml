@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group/>
+        <group name="Pro192">
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Model/Cart.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Controller/Checkout.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Dal/CartDao.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Model/ProductVariant.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Controller/AllProductServlet.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Model/Order.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/checkout.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Controller/OrderDetail.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Dal/ProductDao.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Model/OrderDetail.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/orderDetail.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/orders.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/allproduct.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/web/cart.jsp</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Controller/MyOrderSevlet.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Dal/OrderDao.java</file>
+            <file>file:/D:/Ky5-Summer2024/SWP391/SWP_391_Nhom1-master/Swp391_Nhom1/src/java/Model/Status.java</file>
+        </group>
+    </open-files>
+</project-private>
